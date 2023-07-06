@@ -15,3 +15,8 @@
 注意:需要在根目录下启动,这和cmd/main.go中获取文件是通过相对路径相关.
 > go run cmd/main.go 
 
+
+## 最终的数据位置
+tmp/mr-out-*
+
+
